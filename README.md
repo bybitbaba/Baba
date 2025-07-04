@@ -19,3 +19,6 @@ node_modules/
 artifacts/
 cache/
 coverage/
+
+git add contracts/Lock.sol
+git commit -m "Added comment to Lock.sol contract"
