@@ -13,3 +13,9 @@ npx hardhat ignition deploy ./ignition/modules/Lock.js
 
 git add README.md
 git commit -m "Added project description to README"
+
+node_modules/
+.env
+artifacts/
+cache/
+coverage/
