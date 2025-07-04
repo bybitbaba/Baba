@@ -14,3 +14,5 @@ npx hardhat ignition deploy ./ignition/modules/Lock.js
 git add <file-name>
 
 git commit -m "Commit message (e.g., Added line to README)"
+
+git pull origin main
