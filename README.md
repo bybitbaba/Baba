@@ -24,3 +24,5 @@ for i in {1..10}; do
   git commit -m "Added change $i"
 done
 git push origin main
+
+git pull origin main
