@@ -10,3 +10,6 @@ npx hardhat test
 REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
+
+git add README.md
+git commit -m "Added project description to README"
