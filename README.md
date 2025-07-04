@@ -26,3 +26,7 @@ git commit -m "Added comment to Lock.sol contract"
 
 git add test/Lock.test.js
 git commit -m "Added initial test file for Lock contract"
+
+
+git add hardhat.config.js
+git commit -m "Added comment to hardhat.config.js"
