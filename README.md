@@ -16,3 +16,11 @@ git add <file-name>
 git commit -m "Commit message (e.g., Added line to README)"
 
 git pull origin main
+
+
+for i in {1..10}; do
+  echo "Change $i" >> changes.txt
+  git add changes.txt
+  git commit -m "Added change $i"
+done
+git push origin main
