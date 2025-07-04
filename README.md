@@ -22,3 +22,7 @@ coverage/
 
 git add contracts/Lock.sol
 git commit -m "Added comment to Lock.sol contract"
+
+
+git add test/Lock.test.js
+git commit -m "Added initial test file for Lock contract"
